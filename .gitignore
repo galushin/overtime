@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+overtime_build_log.html
+bin/*
+table.html
